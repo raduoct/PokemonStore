@@ -1,0 +1,13 @@
+Fire;Flareon;250;110;Wild Kick;30;2;Flip a coin.If tails, this attack does nothing.;Fire Mane;100;3;-;
+Water;Horsea;100;40;Water Gun;10;1;-;
+Earth;Leafeon;250;90;Soothing Scent;30;1;Your opponent's Active Pokemon is now Asleep.;Magical Leaf;50;3;Flip a coin.If heads, this attack does 30 more damage.;
+Fire;Vulpix;100;70;Flare;20;1;-;
+Water;Kyogre;300;130;Surf;120;4;-;
+Air;Yvetal;300;120;Dark Feather;100;3;-;
+Air;Lugia;300;130;Deep Crush;160;4;During your next turn, this Pokemon can't attack.;Aero Ball;20;2;This attack does 20 damage for each Energy attached to both Active Pokemon.;
+Earth;Aron;100;70;Gnaw;20;2;-;Rolling Tackle;50;3;-;
+Earth;Cacnea;100;70;Pierce;50;2;-;
+Water;Palkia;300;130;Overdrive Smash;80;3;During your next turn, this Pokemon's Overdrive Smash attack does 80 more damage.;
+Fire;Ho-Oh;300;130;Fire Blast;120;3;Discard an Energy from this Pokemon.;
+Fire;Reshiram;300;130;Black Flame;80;3;If Zekrom is on your bench, this attack does 80 more damage.;
+Earth;Groudon;300;130;Massive Rend;120;4;-;
